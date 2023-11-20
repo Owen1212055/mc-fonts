@@ -1,6 +1,6 @@
 # mc-fonts
 
-Last updated: Minecraft 22w14a (1.19)
+Last updated: Minecraft 1.20.3-pre1
 
 ### Information
 

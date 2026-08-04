@@ -1,6 +1,6 @@
 # mc-fonts
 
-Last updated: Minecraft <!--MC TOKEN-->26.3 Snapshot 4<!--MC TOKEN-->
+Last updated: Minecraft <!--MC TOKEN-->26.3 Snapshot 7<!--MC TOKEN-->
 
 ### Information
 
